@@ -6,6 +6,7 @@ public class MiClase {
 		System.out.println("inicio");
 		String asignaturas= "Entornos";
 		System.out.println("1");
+<<<<<<< HEAD
 		System.out.println("2");
 
 		System.out.println("3");
@@ -14,6 +15,11 @@ public class MiClase {
 		System.out.println("Rama 1.1");
 		System.out.println("Rama 1.2");
 
+=======
+		System.out.println("Rama1");
+		System.out.println("Rama 1.1");
+		System.out.println("Rama 1.2");
+>>>>>>> refs/heads/Rama1
 	}
 
 }
